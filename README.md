@@ -8,7 +8,7 @@ I am a second-year MS student in the Robotics track at Stanford University. Over
 In the coming year, I am eager to delve deeper into robotic learning and cross-embodiment learning. I am actively seeking research opportunities in these areas. If you're interested in collaborating or learning more about my work, feel free to reach out to me at `ziangcao@stanford.edu`.
 
 ## 🎓 Future Plans
-I plan to graduate from Stanford University in June 2024 and am actively looking for PhD opportunities in Robotic Learning for Fall 2025.
+I plan to graduate from Stanford University in June 2025 and am actively looking for PhD opportunities in Robotic Learning for Fall 2025.
 
 ## 📫 Contact Me
 [![Email](https://img.shields.io/badge/Email-F8F4EE)](mailto:ziangcao@stanford.edu)
